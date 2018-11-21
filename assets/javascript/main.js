@@ -1,7 +1,9 @@
-// display gif buttons
+//display gif buttons
 
-// add new gif buttons
+//add new gif buttons
 
-// display gifs
+//display gifs
 
 //call functions
+
+
