@@ -8,4 +8,6 @@ Search and view gifs using Giphy's API.
 4. Click again to pause.
 
 **Demo:**
-![Alt Text](assets/demo.gif)
+![Giphy Search Demo](assets/Giphy Search.gif)
+
+
