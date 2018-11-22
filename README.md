@@ -1,5 +1,5 @@
 # Giphy Search Tool
-Search and view gifs on using Giphy's API. 
+Search and view gifs using Giphy's API. 
 
 **Instuctions:**
 1. First enter the topic of your choosing into the form and create a  Gif button.
