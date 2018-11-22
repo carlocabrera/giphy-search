@@ -6,3 +6,6 @@ Search and view gifs using Giphy's API.
 2. Then click on the gif button to view Gifs.
 3. Click on gif to activate.
 4. Click again to pause.
+
+**Demo:**
+![Alt Text](assets/demo.gif)
