@@ -1,1 +1,1 @@
-Giphy Search Tool #h1
+#Giphy Search Tool
